@@ -66,10 +66,4 @@ mvn spring-boot:run
 
 4. Visit `http://localhost:8080` in your browser.
 
-## Screenshots
 
-(Add screenshots of the list and form views here.)
-
-## License
-
-This project is licensed under the MIT License.
